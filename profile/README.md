@@ -1,5 +1,5 @@
 <div align="center">
-<img src=https://cdn.discordapp.com/attachments/1166301979295883344/1341384749364547604/LOGO_Republic_51st.png?ex=67b5cd65&is=67b47be5&hm=53165a81a17325facc74d2a9c31fa95d916a1f0cd389dab609537b1a2f463314&>
+<img src=https://cdn.discordapp.com/attachments/1063416495247458396/1373302817321652326/20250512214705_1.jpg?ex=6829eb6a&is=682899ea&hm=341778461e3ccd2211bc29c5670bdf5f7ccc85ff9cd4d7ef7888846df4a9642d&>
 </div>
 
 # 51st Inferno Company - Auxilary Mod Organization.
